@@ -1,0 +1,116 @@
+#content{
+	height:300px;
+
+}
+#header{
+	background-image: url(../bg.jpg);
+}
+#nav{
+      height:300px;
+}
+#sidebar{
+height:170px;
+
+
+}
+ul{
+margin-top:40px;
+
+}
+#header{
+height:100px;
+   text-align:center;
+   margin-top:0.1%;
+   font-family:"bell mt";
+   font-weight:bold;
+   font-size:5em;
+}
+#nav ul li a{
+	color:#d3d3d3;
+	
+}
+#nav ul li a:hover, #nav ul li a:active {
+	color:#eb994d;
+}
+
+#greetings{
+	margin-left:20px;
+	font-size:30px;
+	font-family:"bell mt";
+	margin-top:55px;
+	font-weight:bold;
+	color:#d3d3d3;
+	-webkit-text-stroke-width: 0.2px;
+   -webkit-text-stroke-color: black;
+}
+#footcontacts{
+        font-weight:bold;
+	margin-left:5px;
+	color:#dcdcdc;
+	margin-top:30px;
+	margin-left:45px;
+}
+li{
+        font-family:"baskerville old face";
+	font-size:1.5em;
+	
+	
+}
+#container{
+background-image: url(./bg.jpg);
+background-size:cover;
+height:430px;
+}
+.list-group-item{
+	background-color: rgba(0,0,0,0.1);
+	margin:5px;
+	
+}
+#nav{
+	margin-top:5px;
+}
+
+#ad1{
+	width:140px;
+	height:100px;
+    background: url(./ad1.jpg) 100% 100% no-repeat; 
+    background-size: cover; 
+	margin-left:50px;
+	margin-top:20px;
+}
+#ad1text a {
+	margin-left:50px;
+	color:#d3d3d3;
+}
+#aboutme{
+	font-size:25px;
+	font-family:"book antiqua";
+    font-weight:bold;
+	margin-top:50px;
+}
+#mycontacts{
+	margin-left:20px;
+	font-size:25px;
+	font-family:"baskerville old face";
+	margin-top:50px;
+	color:#d3d3d3;
+}
+#jobs{
+	text-align:center;
+	font-weight:bold;
+	font-size:30px;
+	margin-top:55px;
+}
+#jobs a{
+	color:#d3d3d3;
+}
+#usfllinks{
+	margin-left:20px;
+	font-size:30px;
+	font-family:"bell mt";
+	margin-top:50px;
+	font-weight:bold;
+}
+#usfllinks a{
+	color:#d3d3d3;
+}

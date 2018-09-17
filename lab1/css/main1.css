@@ -1,0 +1,170 @@
+div{
+	border:1px solid black;
+}
+#nav{
+	float:left;
+	width: 365px;
+    min-height: 50px;
+    margin-right: 0px;
+	height:323px;
+	background-image: url(../bg.jpg);
+	margin-top:10px;
+}
+#footer{
+	
+	float:right;
+	width:494px;
+	height:90px;
+	background-image: url(../bg.jpg);
+	margin-top:10px;
+}
+#content{
+	float:left;
+	width:600px;
+	min-height:50px;
+	height:323px;
+	background-image: url(../bg.jpg);
+	margin-left:7px;
+	margin-top:10px;
+}
+#sidebar{
+	float:right;
+	width:100px;
+	min-height:50px;
+	width:494px;
+	height:221px;
+	background-image: url(../bg.jpg);
+	margin-left:5px;
+	margin-top:10px;
+}
+#container{
+	width:1478px;
+	
+}
+#header{
+	
+	height:100px;
+	width:1478px;
+	background-image: url(../bg.jpg);
+	
+}
+#head{
+   text-align:center;
+   margin-top:0.1%;
+   font-family:"bell mt";
+   font-weight:bold;
+   font-size:5em;
+   
+}
+#menu{
+	margin-left:10px;
+	font-family:"baskerville old face";
+	font-size:1.5em;
+	padding:0;
+	margin-bottom:0;
+	
+}
+ul{
+	list-style-type:none;
+	margin-top:50px;
+	
+}
+li{
+	padding:5px;
+	font-size:30px;
+	text-align:center;
+	margin-left:-70px;
+	font-weight:bold;
+	
+}
+#nav ul li a{
+	color:#333;
+	
+}
+#nav ul li a:hover, #nav ul li a:active {
+	color:#eb994d;
+}
+#aboutme{
+	font-size:25px;
+	font-family:"book antiqua";
+	-webkit-text-stroke-width: 0.2px;
+   -webkit-text-stroke-color: white;
+   font-weight:bold;
+}
+#white{
+	
+}
+#footcontacts{
+	
+	font-weight:bold;
+	margin-left:5px;
+}
+#jobs{
+	text-align:center;
+	font-weight:bold;
+	font-size:35px;
+	margin-top:55px;
+}
+#mycontacts{
+	margin-left:20px;
+	font-size:30px;
+	font-family:"baskerville old face";
+	margin-top:55px;
+}
+#usfllinks{
+	margin-left:20px;
+	font-size:30px;
+	font-family:"bell mt";
+	margin-top:10px;
+	font-weight:bold;
+}
+#arrow{
+	font-size:35px;
+}
+#greetings{
+	margin-left:20px;
+	font-size:30px;
+	font-family:"bell mt";
+	margin-top:55px;
+	font-weight:bold;
+}
+#footemail{
+	float:right;
+	margin-top:-55px;
+	margin-right:10px;
+}
+#foottel{
+	margin-top:10px;
+	
+}
+#ad1{
+	width:140px;
+	height:100px;
+    background: url(../ad1.jpg) 100% 100% no-repeat; 
+    background-size: cover; 
+	margin-left:10px;
+	margin-top:20px;
+	border:none;
+}
+#ad1text a {
+	margin-left:10px;
+	
+}
+#ad1text{
+	border:none;
+}
+#ad2{
+	width:235px;
+	height:100px;
+	float:right;
+	margin-top:-120px;
+	margin-right:20px;
+	background: url(../ad2.jpg) 100% 100% no-repeat; 
+	background-size: cover; 
+}
+#ad2text {
+	margin-left:230px;
+    margin-top:-15px;
+	font-weight:bold;
+	border:none;
+}
